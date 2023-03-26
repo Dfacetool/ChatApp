@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="clear_history">Clear history</string>
+    <string name="take_screenshot">Take screenshot</string>
+</resources>
