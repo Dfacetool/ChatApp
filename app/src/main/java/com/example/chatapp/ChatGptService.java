@@ -47,7 +47,7 @@ import retrofit2.converter.jackson.JacksonConverterFactory;
 
 public class ChatGptService {
 
-    private static final String BASE_URL = "https://dze-proxy.zeabur.app/proxy/";
+    private static final String BASE_URL = "https://dze999.deno.dev/";
     //private static final String BASE_URL = "https://api.openai.com/";
     private static final Duration DEFAULT_TIMEOUT = Duration.ofSeconds(180);
     private static final ObjectMapper errorMapper = defaultObjectMapper();

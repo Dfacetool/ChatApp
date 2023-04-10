@@ -337,7 +337,7 @@ public class MainActivity extends AppCompatActivity {
 
             // 在这里执行网络请求
             // ...
-            String token = "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";
+            String token = "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";
             ObjectMapper mapper = defaultObjectMapper();
             Duration timeout = Duration.ofSeconds(180);
             //Proxy proxy = new Proxy(Proxy.Type.SOCKS, new InetSocketAddress("https://gpt-proxy.zeabur.app/proxy", 80));
